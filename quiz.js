@@ -5,11 +5,11 @@ stdin.setEncoding("utf8");
 
 let questionsList = getQuestions();
 let score = 0;
-let questionNo = 1;
+let questionNo = 0;
 let setTime;
 
 let displayQs = function(questionNo) {
-  let question = questionsList[questionNo - 1];
+  let question = questionsList[questionNo];
   stdout.write(`${question.question}\n`);
   let options = question.options;
   stdout.write(
@@ -22,7 +22,7 @@ let displayQs = function(questionNo) {
 };
 
 const answerChecking = function(answer) {
-  if (answer == questionsList[questionNo - 1].answer) {
+  if (answer == questionsList[questionNo].answer) {
     score++;
     console.log(`score is ${score}\nyour answer is correct`);
   } else {
@@ -32,8 +32,8 @@ const answerChecking = function(answer) {
 };
 
 const giveNextQn = function() {
+  questionNo++;
   if (questionNo < questionsList.length) {
-    questionNo++;
     displayQs(questionNo);
   } else {
     process.exit(0);
