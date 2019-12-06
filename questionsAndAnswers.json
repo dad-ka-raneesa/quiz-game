@@ -1,0 +1,237 @@
+[
+  {
+    "question": "what is the value of 5^5?",
+    "options": { "a": "3725", "b": "3125", "c": "3275", "d": "3175" },
+    "answer": "b"
+  },
+  {
+    "question": "For how many days is a Test match scheduled?",
+    "options": { "a": "5", "b": "6", "c": "3", "d": "1" },
+    "answer": "a"
+  },
+  {
+    "question": "The language spoken by the people by Pakistan is ?",
+    "options": { "a": "Hindi", "b": "palauan", "c": "sindhi", "d": "nauruan" },
+    "answer": "c"
+  },
+  {
+    "question": "The World Largest desert is ?",
+    "options": { "a": "Thar", "b": "Kalahari", "c": "Sahara", "d": "Sonoran" },
+    "answer": "c"
+  },
+  {
+    "question": "Country that has the highest in Barley Production ?",
+    "options": { "a": "China", "b": "India", "c": "France", "d": "Russia" },
+    "answer": "d"
+  },
+  {
+    "question": "The Central Rice Research Station is situated in ?",
+    "options": {
+      "a": "Chennai",
+      "b": "cuttack",
+      "c": "Bangalore",
+      "d": "Quilon"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Mount Everest is located in ?",
+    "options": { "a": "India", "b": "Nepal", "c": "Tibet", "d": "China" },
+    "answer": "b"
+  },
+  {
+    "question": "Which soil is suitable for agriculture ?",
+    "options": {
+      "a": "Red soil",
+      "b": "Sand",
+      "c": "Black soil",
+      "d": "Peaty soil"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "The device used for measuring altitudes is ?",
+    "options": {
+      "a": "Altimeter",
+      "b": "Ammeter",
+      "c": "Audiometer",
+      "d": "Galvanometer"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "The Gate way of India is in?",
+    "options": { "a": "Chennai", "b": "Mumbai", "c": "New Delhi", "d": "Pune" },
+    "answer": "b"
+  },
+  {
+    "question": "Which is considered as the biggest port of India ?",
+    "options": { "a": "Kolkata", "b": "Cochin", "c": "Chennai", "d": "Mumbai" },
+    "answer": "d"
+  },
+  {
+    "question": "The gas used for making vegetables is ?",
+    "options": {
+      "a": "Oxygen",
+      "b": "Carbon dioxide",
+      "c": "Hydrogen",
+      "d": "Nitrogen"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Country that was called as Land of Rising Sun ?",
+    "options": { "a": "Russia", "b": "Japan", "c": "Korea", "d": "China" },
+    "answer": "b"
+  },
+  {
+    "question": "Pink city in India is ?",
+    "options": {
+      "a": "Mysore",
+      "b": "Karnataka",
+      "c": "Hyderabad",
+      "d": "JaiPur"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Deficiency of Iron leads to ?",
+    "options": {
+      "a": "Rickets",
+      "b": "Malaria",
+      "c": "Dental Cavity",
+      "d": "Anaemia"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "The state which has desert in India is ?",
+    "options": {
+      "a": "Rajasthan",
+      "b": "Punjab",
+      "c": "Utter Pradesh",
+      "d": "Madhya Pradesh"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "The headquarters of the coffee board of India is ?",
+    "options": {
+      "a": "Mysore",
+      "b": "Kolkata",
+      "c": "Bangalore",
+      "d": "Cochin"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "The largest fresh water lake in India is ?",
+    "options": {
+      "a": "Pulicat Lake",
+      "b": "Veeranam Lake",
+      "c": "Chilka Lake",
+      "d": "Kolleru Lake"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "The largest river in India is ?",
+    "options": { "a": "Yamuna", "b": "Kaveri", "c": "Ganga", "d": "Krishna" },
+    "answer": "c"
+  },
+  {
+    "question": "The Hindustan Shipyard is located at ?",
+    "options": {
+      "a": "Mumbai",
+      "b": "Chennai",
+      "c": "Kerala",
+      "d": "Visakhapatnam"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Which city is famous for Cotton Industry in Tamilnadu ?",
+    "options": {
+      "a": "Coimbatore",
+      "b": "Chennai",
+      "c": "Trichy",
+      "d": "Madurai"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "The hottest planet in the solar system ?",
+    "options": { "a": "Earth", "b": "Venus", "c": "Mars", "d": "Jupiter" },
+    "answer": "b"
+  },
+  {
+    "question": "The river that flows through Delhi is ?",
+    "options": { "a": "Ganga", "b": "Sindhu", "c": "Yamuna", "d": "Narmada" },
+    "answer": "c"
+  },
+  {
+    "question": "The most important river of Orissa is ?",
+    "options": {
+      "a": "Brahmaputra",
+      "b": "Godavari",
+      "c": "Mahanadi",
+      "d": "Sarasvathi"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Headquarters of UNO are situated at?",
+    "options": {
+      "a": "New York, USA",
+      "b": "Hague (Netherlands)",
+      "c": "Geneva",
+      "d": "Paris"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Which crop is sown on the largest area in India?",
+    "options": { "a": "Rice", "b": "Wheat", "c": "Sugercane", "d": "Maize" },
+    "answer": "a"
+  },
+  {
+    "question": "The value of Gold is determined in ?",
+    "options": {
+      "a": "Rome",
+      "b": "Washington",
+      "c": "Teheran",
+      "d": "London"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "“Oscar awards” given for excellent work in the field of ?",
+    "options": {
+      "a": "Literature",
+      "b": "Sports",
+      "c": "Films",
+      "d": "Social Activites"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "The state which has the largest number of sugar mills in India is ?",
+    "options": {
+      "a": "Bihar",
+      "b": "Haryana",
+      "c": "Panjab",
+      "d": "Utter Pradesh"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "The highest peak in South India is ?",
+    "options": {
+      "a": "Everest",
+      "b": "Dodabetta",
+      "c": "Neeligiri Hills",
+      "d": "Anaimudi"
+    },
+    "answer": "d"
+  }
+]
